@@ -3,9 +3,9 @@
 const LOGIN_URL = 'https://api.blaulichtsms.net/blaulicht/api/alarm/v1/dashboard/login';
 
 // FILL IN YOUR USER CREDENTIALS BELOW
-const CUSTOMER_ID = '';
-const USERNAME = '';
-const PASSWORD = '';
+const CUSTOMER_ID = '101011';
+const USERNAME = 'ff-';
+const PASSWORD = '2';
 
 $login_request_body = [
     'username' => USERNAME,
